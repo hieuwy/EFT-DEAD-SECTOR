@@ -1,3 +1,4 @@
+![banner](src/img/banner.gif)
 # SPT TARKOV
 This curated modpack aims to bring a more enjoyable experience for the **employed** players of Escape from Tarkov. In the base game, it is harder to be a force of nature against seasoned players when you have a 9 to 5. This modpack attempts to bring balance towards all aspects of the game as well as keeping it challenging enough for it to be entertaining, but not draining to where you don’t stand a chance.
 
