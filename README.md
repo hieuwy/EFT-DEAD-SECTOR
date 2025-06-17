@@ -1,7 +1,7 @@
 ![banner](src/img/banner.gif)
 # SPT TARKOV
 
-//CREATE IO SHIELDS HERE (https://img.shields.io/)
+// CREATE IO SHIELDS HERE (https://img.shields.io/)
 ![modpackversion](https://img.shields.io/badge/modpackVER-2.0-blue)
 ![sptversion](https://img.shields.io/badge/sptclientVER-3.11-green)
 ![moddescription1](https://img.shields.io/badge/mods-QoL-pink)
