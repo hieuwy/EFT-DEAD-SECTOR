@@ -16,3 +16,12 @@ In previous builds of this modpack, we had plenty of options that gave us overpo
 Changes were made at improving AI, more gear variety, leveling balances, user interface, and much more. Enjoy Escape from Tarkov the way it was meant to be played.
 
 This is the new home/repository for the SPT Tarkov mod pack, further updates and planned features will be uploaded here.
+
+## START HERE
+
+| Table of Contents             | 
+| ----------------------------- |
+| INSTALLATION (NEW USERS)      |
+| INSTALLATION (EXISTING USERS) |
+| CHANGELOG                     |
+| MODLIST                       |
