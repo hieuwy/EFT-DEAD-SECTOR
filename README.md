@@ -1,5 +1,5 @@
 ![banner](src/img/banner.gif)
-# SPT TARKOV
+# Escape From Tarkov: Dead Sector (MODPACK)
 
 
 ![modpackversion](https://img.shields.io/badge/modpackVER-2.0-blue)
