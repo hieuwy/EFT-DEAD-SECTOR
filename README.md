@@ -25,3 +25,8 @@ This is the new home/repository for the SPT Tarkov mod pack, further updates and
 | INSTALLATION (EXISTING USERS) |
 | CHANGELOG                     |
 | MODLIST                       |
+
+
+## REQUIRED FILES
+
+**SPT TARKOV MODPACK-BETAver-2.5** *(download)*
