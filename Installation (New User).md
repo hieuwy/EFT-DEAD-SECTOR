@@ -9,6 +9,7 @@ There are some prerequisites that you will need for the installation process.
 5. Ensure that during the installation process, that both installations of Escape from Tarkov and SPT are on the same drive.
 
 ## Step 1
+Head to Escape from Tarkov's official website to purchase and download Escape From Tarkov. [here](https://www.escapefromtarkov.com/)
 After you have purchased Escape From Tarkov, install the launcher to your folder of choice. It will install the Battlestate Launcher. When it finishes installing, the launcher opens after install. It will then prompt you to choose a location to install the game. (it is suggested to install it in the same location as the launcher for ease of access). 
 
 Once the game has finished downloading, your install folder location should look like this (The designated folder for EFT can be named whatever you want):
