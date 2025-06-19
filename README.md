@@ -31,4 +31,4 @@ This is the new home/repository for the SPT Tarkov mod pack, further updates and
 
 ## REQUIRED FILES
 
-**SPT TARKOV MODPACK-BETAver-2.5** *(download)*
+[**SPT TARKOV MODPACK-BETAver-2.5**](https://github.com/hieuwy/EFT-DEAD-SECTOR/releases/tag/intial)
