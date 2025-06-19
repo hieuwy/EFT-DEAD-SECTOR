@@ -64,7 +64,7 @@ Let’s set up Radmin now.
 
 4. Click "Join Network +"
 
-![radminjoinnetwork](/src/img/joinnetwork.png)
+![radminjoinnetwork](/src/img/radminjoinnetwork.png)
 
 5. A modal will appear with the network name and password. Here are the credentials to join:
    a. Network Name: MPT Tarkie
