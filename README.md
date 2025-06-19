@@ -22,7 +22,7 @@ This is the new home/repository for the SPT Tarkov mod pack, further updates and
 
 | Table of Contents             | 
 | ----------------------------- |
-| [INSTALLATION-NEW USER](./EFT-DEAD-SECTOR/installation-new-user.md/) |
+| [INSTALLATION-NEW USER](./EFT-DEAD-SECTOR/installation-new-user.md) |
 | INSTALLATION (EXISTING USERS) |
 | CHANGELOG                     |
 | MODLIST                       |
