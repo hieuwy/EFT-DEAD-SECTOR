@@ -31,7 +31,11 @@ In the same location as your Escape from Tarkov install, create a new folder. (F
 
 ![filedirectoryspt]
 
-Click on the SPTinstaller.exe file. A window will appear. The installer will have some pre-checks on the right side for some extra required files. If you do not have the required .NET files [.NET Framework 4.7.2](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net472) [.NET 8.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) downloaded yet, please download them now. 
+Click on the SPTinstaller.exe file. A window will appear. The installer will have some pre-checks on the right side for some extra required files. If you do not have the required .NET files downloaded yet, please download them now:
+
+[.NET Framework 4.7.2](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net472) 
+
+[.NET 8.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) 
 
 ![sptinstallerprecheck]
 
