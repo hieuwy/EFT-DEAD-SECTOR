@@ -23,7 +23,7 @@ Once the game has finished downloading, your install folder location should look
 
 Now head to SPT's website [here](https://sp-tarkov.com) and download the installer to the location of your choice (/downloads or on your desktop). 
 
-![sptwebpage]
+![sptwebpage](/src/img/sptwebpage.png)
 
 ## STEP 2
 
