@@ -1,4 +1,4 @@
-![banner](src/img/banner.gif)
+![banner](src/img/bg.png)
 # Escape From Tarkov: Dead Sector (MODPACK)
 
 
