@@ -29,7 +29,7 @@ Now head to SPT's website [here](https://sp-tarkov.com) and download the install
 
 In the same location as your Escape from Tarkov install, create a new folder. (For this example, I named my folder SPTarkov.)
 
-![filedirectoryspt]
+![filedirectoryspt](/src/img/filedirectoryspt.png)
 
 Place your SPTinstaller.exe in your SPT folder.
 
@@ -39,7 +39,7 @@ Click on the SPTinstaller.exe file. A window will appear. The installer will hav
 
 [.NET 8.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) 
 
-![sptinstallerprecheck]
+![sptinstallerprecheck](src/img/sptinstallerprecheck.png)
 
 Once you have all pre-checks with a green check-mark, you are now able to click the “Start Install: SPT v3.10.5" on the bottom right. This will automatically install and clone the required files into your SPT folder.
 
@@ -47,7 +47,7 @@ Once the install finishes, you should be prompted with a message saying “Happy
 
 Your SPT folder should now look like this:
 
-![sptfolder]
+![sptfolder](/src/img/sptfolder.png)
 
 ## STEP 3
 
@@ -60,18 +60,18 @@ Let’s set up Radmin now.
 2. Open the application and the window should appear. 
 3. Click on the network tab in the navigation.
 
-![radminnetwork]
+![radminnetwork](/src/img/radminnetwork.png)
 
 4. Click "Join Network +"
 
-![radminjoinnetwork]
+![radminjoinnetwork](/src/img/joinnetwork.png)
 
 5. A modal will appear with the network name and password. Here are the credentials to join:
    a. Network Name: MPT Tarkie
    b. Password: 123456
 *The Network Name is case sensitive*
 
-![joinnetworklogin]
+![joinnetworklogin](/src/img/joinnetworklogin.png)
 
 6. The network will appear in your RAdmin window now. There should be a dropdown option on the network name. Click that. You can copy the active network IP that has green bars. 
 7. In our case, my IP for the server will be ***26.253.144.19***
