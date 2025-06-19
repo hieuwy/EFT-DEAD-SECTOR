@@ -43,3 +43,32 @@ Your SPT folder should now look like this:
 
 ![sptfolder]
 
+## STEP 3
+
+Here we will set up the multiplayer aspect of SPT. Let's first start with the VPN.
+
+We will be using RADMIN VPN to connect to online. (This is suggested by Project FIKA) [Radmin's Website](https://www.radmin-vpn.com)
+
+Let’s set up Radmin now.
+1. Download the installer and install the program
+2. Open the application and the window should appear. 
+3. Click on the network tab in the navigation.
+
+![radminnetwork]
+
+4. Click "Join Network +"
+
+![radminjoinnetwork]
+
+5. A modal will appear with the network name and password. Here are the credentials to join:
+   a. Network Name: MPT Tarkie
+   b. Password: 123456
+*The Network Name is case sensitive*
+
+![joinnetworklogin]
+
+6. The network will appear in your RAdmin window now. There should be a dropdown option on the network name. Click that. You can copy the active network IP that has green bars. 
+7. In our case, my IP for the server will be ***26.253.144.19***
+
+*Now we can proceed with the Project FIKA installation*
+The following steps will be a guide on how to install the Project Fika/MPT files for our SPT server to run multiplayer. *(Be sure to follow these steps carefully or you could run into an error when launching.)*
