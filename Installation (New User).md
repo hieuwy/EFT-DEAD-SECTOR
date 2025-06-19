@@ -13,7 +13,7 @@ Head to Escape from Tarkov's official website to create an account, purchase, an
 
 *If you are buying Tarkov exclusively to use SPT, it is recommended to just purchase the Standard Edition. (You will be able to select any edition listed on the website through the SPT launcher when creating your profile.)*
 
-![tarkovwebpage]
+![tarkovwebpage](/src/img/tarkovwebpage.png)
 
 After you have purchased Escape From Tarkov, install the launcher to your folder of choice. It will install the Battlestate Launcher. When it finishes installing, the launcher opens after install. It will then prompt you to choose a location to install the game. (it is suggested to install it in the same location as the launcher for ease of access). 
 
