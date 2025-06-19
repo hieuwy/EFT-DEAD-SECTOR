@@ -22,8 +22,8 @@ This is the new home/repository for the SPT Tarkov mod pack, further updates and
 
 | Table of Contents             | 
 | ----------------------------- |
-| [INSTALLATION-NEW USER](./installation-new-user.md) |
-| INSTALLATION (EXISTING USERS) |
+| [INSTALLATION (NEW USER)](./installation-new-user.md) |
+| [INSTALLATION (EXISTING USERS)](./installation-existing-user.md) |
 | CHANGELOG                     |
 | MODLIST                       |
 | PLANNED FEATURES              |
