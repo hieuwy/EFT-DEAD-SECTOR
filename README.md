@@ -18,7 +18,7 @@ Changes were made at improving AI, more gear variety, leveling balances, user in
 
 This is the new home/repository for the SPT Tarkov mod pack, further updates and planned features will be uploaded here.
 
-## START HERE
+## :pushpin: START HERE :pushpin:
 
 | Table of Contents             | 
 | ----------------------------- |
