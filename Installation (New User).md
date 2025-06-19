@@ -19,7 +19,7 @@ After you have purchased Escape From Tarkov, install the launcher to your folder
 
 Once the game has finished downloading, your install folder location should look like this (The designated folder for EFT can be named whatever you want):
 
-![filedirectoryeft]
+![filedirectoryeft](/src/img/filedirectoryeft.png)
 
 Now head to SPT's website [here](https://sp-tarkov.com) and download the installer to the location of your choice (/downloads or on your desktop). 
 
