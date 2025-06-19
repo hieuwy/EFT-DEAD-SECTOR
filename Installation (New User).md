@@ -91,13 +91,13 @@ Extract the files from both downloads into your SPT Directory. You should now be
 
 Click and open your "SPTLauncher.exe" file. After it opens, you will get an error saying no server is running. This is fine. What you want to do is click on the settings tab on the top right corner of the navigation window.
 
-![sptsettingsloc]
+![sptsettingsloc](/src/img/sptsettingsloc.png)
 
 Enable "Developer Mode" and locate the URL address bar below it.
 
 In the URL field, type in the corresponding IP address to connect to the host's server. In this case, you can copy and pastethe provided URL: ***https://26.253.144.19:6969***
 
-![sptIPurl]
+![sptIPurl](/src/img/sptIPurl.png)
 **BE SURE THE URL LOOKS EXACTLY LIKE IT DOES ABOVE**
 
 Press the arrow on the top right of the window and then close your launcher. 
