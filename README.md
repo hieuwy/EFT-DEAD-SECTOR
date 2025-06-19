@@ -31,4 +31,4 @@ This is the new home/repository for the SPT Tarkov mod pack, further updates and
 
 ## REQUIRED FILES
 
-[**EFT: DEAD SECTOR MODPACK-BETAver-2.5**](https://github.com/hieuwy/EFT-DEAD-SECTOR/releases)
+[**EFT: DEAD SECTOR MODPACK-BETAver-2.2**](https://github.com/hieuwy/EFT-DEAD-SECTOR/releases)
