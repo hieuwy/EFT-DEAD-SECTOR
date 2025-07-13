@@ -26,7 +26,7 @@ This is the new home/repository for the SPT Tarkov mod pack, further updates and
 | [INSTALLATION (EXISTING USERS)](./installation-existing-user.md) |
 | [CHANGELOG](https://github.com/hieuwy/EFT-DEAD-SECTOR/releases)  |
 | MODLIST                       |
-| PLANNED FEATURES              |
+| [PLANNED FEATURES](./planned-features.md)              |
 
 
 ## REQUIRED FILES
